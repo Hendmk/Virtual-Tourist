@@ -8,6 +8,7 @@ Virtual Tourist is un app that show the images from Flickr by location. The app 
 Screenshots:
 Map page:
 https://cdn1.imggmi.com/uploads/2019/2/14/db21eb2317b2d1c7bc5fbef97fda193f-full.png
+
 Photos Page:
 https://cdn1.imggmi.com/uploads/2019/2/14/98e7b9aee631771ff259920d4db891d8-full.png
 
